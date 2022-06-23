@@ -1,6 +1,6 @@
 # Cookiecutter ansible molecule template role
 
-Created a new role via a cookiecutter template role:
+Created a new ansible role via a cookiecutter template role:
 
 ``` bash
 $ cookiecutter https://<git_server_url>/<repository_name>.git
@@ -10,4 +10,4 @@ role_name [OVERRIDEN]: <role_name example: role_example_name>
 scenario_name [default]: <enter>
 ```
 
-> **note** `cookiecutter` is bundled with ansible molecule.
+> **note** `cookiecutter` is bundled with [ansible molecule](https://molecule.readthedocs.io/en/latest/).
