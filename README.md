@@ -3,7 +3,7 @@
 Created a new ansible role via a cookiecutter template role:
 
 ``` bash
-$ cookiecutter https://<git_server_url>/<repository_name>.git
+$ cookiecutter molecule-template-role # this repo
 You have downloaded /<home_directory>/.cookiecutters/molecule before. Is it okay to delete and re-download it?
 [yes]: yes
 role_name [OVERRIDEN]: <role_name example: role_example_name>
